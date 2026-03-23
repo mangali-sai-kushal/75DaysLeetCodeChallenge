@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
