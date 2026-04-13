@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
