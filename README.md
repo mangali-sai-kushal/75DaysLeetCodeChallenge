@@ -62,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
