@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
