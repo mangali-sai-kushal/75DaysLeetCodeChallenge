@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
