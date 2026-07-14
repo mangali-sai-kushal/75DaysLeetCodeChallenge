@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
