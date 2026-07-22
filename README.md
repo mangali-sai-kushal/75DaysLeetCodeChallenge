@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
