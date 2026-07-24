@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 ## Sliding Window
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
